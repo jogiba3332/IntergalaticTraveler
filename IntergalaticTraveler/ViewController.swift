@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
 
-
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let nameOfColor = colorTextField.text!
+        let NVC = segue.destination as! SecondViewContoller
+        NVC.starcolor = nameOfColor
+    }
 }
 
