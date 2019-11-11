@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F536812F2379CC54009EF482 /* SecondViewContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = F536812E2379CC54009EF482 /* SecondViewContoller.swift */; };
 		F543340A23733752004AF45D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F543340923733752004AF45D /* AppDelegate.swift */; };
 		F543340C23733752004AF45D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F543340B23733752004AF45D /* SceneDelegate.swift */; };
 		F543340E23733752004AF45D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F543340D23733752004AF45D /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F536812E2379CC54009EF482 /* SecondViewContoller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewContoller.swift; sourceTree = "<group>"; };
 		F543340623733752004AF45D /* IntergalaticTraveler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IntergalaticTraveler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F543340923733752004AF45D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F543340B23733752004AF45D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				F543340B23733752004AF45D /* SceneDelegate.swift */,
 				F543340D23733752004AF45D /* ViewController.swift */,
 				F543340F23733752004AF45D /* Main.storyboard */,
+				F536812E2379CC54009EF482 /* SecondViewContoller.swift */,
 				F543341223733753004AF45D /* Assets.xcassets */,
 				F543341423733753004AF45D /* LaunchScreen.storyboard */,
 				F543341723733753004AF45D /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F543340E23733752004AF45D /* ViewController.swift in Sources */,
+				F536812F2379CC54009EF482 /* SecondViewContoller.swift in Sources */,
 				F543340A23733752004AF45D /* AppDelegate.swift in Sources */,
 				F543340C23733752004AF45D /* SceneDelegate.swift in Sources */,
 			);
